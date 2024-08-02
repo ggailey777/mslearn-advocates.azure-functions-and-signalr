@@ -10,7 +10,7 @@ products:
 - azure-functions
 - azure-signalr
 - azure-storage
-- vs-code
+- vs-code 
 urlFragment: azure-functions-and-signalr-javascript
 name: "Enable real-time updates in a web application using Azure Functions and SignalR Service"
 description: Change a JavaScript web app update mechanism from polling to real-time push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.
